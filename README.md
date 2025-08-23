@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratiksha Jadhav</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikshakj" alt="pratikshakj" /></a> </p>
-
 - 🔭 Frontend Developer with 2+ years of professional experience specializing in Angular and modern frontend technologies. Skilled in developing responsive, scalable, and user-friendly web applications with expertise in JavaScript, TypeScript, HTML5, CSS3, and Angular frameworks. Strong background in UI/UX design, performance optimization, and cross-browser compatibility. Experienced in translating business requirements into efficient digital solutions that enhance user experience and deliver measurable results. Passionate about continuous learning, clean code practices, and building impactful web applications.
 - 📫 How to reach me **pratikshakjadhav145@gmail.com**
 
